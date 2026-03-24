@@ -1,2 +1,10 @@
 # sdk-node
-Node.js SDK for Canopy API
+
+Official Node.js SDK for the Canopy API
+
+## Getting Started
+
+```bash
+npm install
+npm run build
+```
